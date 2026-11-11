@@ -19,13 +19,13 @@
 ### 📸 Скриншоты и результаты работы
 
 **1. Приветственная страница Nginx:**
-![Страница Nginx](C:\Users\belou\Desktop\home-lab-setup\nginx-welcome.png)
+![Страница Nginx]()
 
 **2. Проверка открытых портов через PowerShell:**
-![Проверка портов](C:\Users\belou\Desktop\home-lab-setup\nmap-scan-windows PS.png)
+![Проверка портов]()
 
 **3. Проверка открытых портов через Nmap:**
-![Проверка портов](C:\Users\belou\Desktop\home-lab-setup\nmap-scan-ubuntu.png)
+![Проверка портов]()
 
 **4. Анализ логов безопасности:**
-![Анализ логов](C:\Users\belou\Desktop\home-lab-setup\log-analysis.png)
+![Анализ логов]()
