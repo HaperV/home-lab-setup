@@ -15,17 +15,3 @@
 7. Проведен анализ системных логов (`/var/log/auth.log`) для контроля попыток аунтефикации по SSH;
 8. Изучены логи веб-сервера Nginx (`/var/log/nginx/access.log`) для мониторинга входящих HTTP-запросов и кодов ответов;
 9. Освоена фильтрация событий в реальном времени с помощью утилиты (`grep`).
-
-### 📸 Скриншоты и результаты работы
-
-**1. Приветственная страница Nginx:**
-![Страница Nginx](C:\Users\belou\Desktop\home-lab-setup\nginx-welcome.png)
-
-**2. Проверка открытых портов через PowerShell:**
-![Проверка портов](C:\Users\belou\Desktop\home-lab-setup\nmap-scan-windows PS.png)
-
-**3. Проверка открытых портов через Nmap:**
-![Проверка портов](C:\Users\belou\Desktop\home-lab-setup\nmap-scan-ubuntu.png)
-
-**4. Анализ логов безопасности:**
-![Анализ логов](C:\Users\belou\Desktop\home-lab-setup\log-analysis.png)
